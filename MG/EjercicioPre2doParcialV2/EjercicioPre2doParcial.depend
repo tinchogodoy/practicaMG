@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1529626431 source:d:\mg\ejerciciopre2doparcialv2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529627461 d:\mg\ejerciciopre2doparcialv2\arraylist.h
+
+1529627901 source:d:\mg\ejerciciopre2doparcialv2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1529627729 d:\mg\ejerciciopre2doparcialv2\empleado.h
+
+1529627344 source:d:\mg\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1529543259 d:\mg\ejerciciopre2doparcialv2\parser.h
+	"ArrayList.h"
+
+1529626719 source:d:\mg\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArrayList.h"
+
